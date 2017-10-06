@@ -1,0 +1,12 @@
+D:\CalcProgram\CalcProgram\bin\Debug\CalcProgram.exe.config
+D:\CalcProgram\CalcProgram\bin\Debug\CalcProgram.exe
+D:\CalcProgram\CalcProgram\bin\Debug\CalcProgram.pdb
+D:\CalcProgram\CalcProgram\obj\Debug\CalcProgram.csprojResolveAssemblyReference.cache
+D:\CalcProgram\CalcProgram\obj\Debug\CalcProgram.CalcProgramForm.resources
+D:\CalcProgram\CalcProgram\obj\Debug\CalcProgram.Properties.Resources.resources
+D:\CalcProgram\CalcProgram\obj\Debug\CalcProgram.csproj.GenerateResource.Cache
+D:\CalcProgram\CalcProgram\obj\Debug\CalcProgram.exe
+D:\CalcProgram\CalcProgram\obj\Debug\CalcProgram.pdb
+E:\CalcProgram\CalcProgram\bin\Debug\CalcProgram.exe.config
+E:\CalcProgram\CalcProgram\obj\Debug\CalcProgram.exe
+E:\CalcProgram\CalcProgram\obj\Debug\CalcProgram.pdb
